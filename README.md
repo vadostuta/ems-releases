@@ -5,8 +5,8 @@ client — press **⌥⌘E**, and a floating panel explains it in plain language
 drag a box on screen and explain a screenshot instead. You can ask follow-up questions in the
 same panel.
 
-What it explains is set by a **template** — a named instruction. Five ship built in (SQL, maths,
-code, driving theory, plain English), all editable, and you can add your own.
+What it explains is set by a **template** — a named instruction. Six ship built in (SQL, maths,
+code, driving theory, plain English, Polish grammar), all editable, and you can add your own.
 
 **[⬇ Download the latest version](https://github.com/vadostuta/ems-releases/releases/latest)**
 
