@@ -5,6 +5,10 @@ client — press **⌥⌘E**, and a floating panel explains it in plain language
 drag a box on screen and explain a screenshot instead. You can ask follow-up questions in the
 same panel.
 
+Not a shortcuts person? **Quick Chat** in the menu bar opens an empty panel to just ask something,
+and the optional **floating helper** — a little bishop, switched on in Settings — sits in a corner
+of your screen: click him to ask a question, or drop text or an image on him to have it explained.
+
 What it explains is set by a **template** — a named instruction. Six ship built in (SQL, maths,
 code, driving theory, plain English, Polish grammar), all editable, and you can add your own.
 
@@ -41,7 +45,7 @@ Nothing will appear to happen. That's correct. Now open the app normally.
 
 ### 3. Grant two permissions
 
-The app has no Dock icon — look for the **brain icon in the menu bar**, then open
+The app has no Dock icon — look for the **mitre (bishop's hat) icon in the menu bar**, then open
 **Setup Guide…**, which walks through the rest and has the buttons for both permissions.
 
 - **Accessibility** — lets EMS read whatever text you currently have selected, by simulating ⌘C.
@@ -95,5 +99,5 @@ and history all survive.
 | Screenshot hotkey does nothing | Grant Screen Recording, then restart EMS |
 | "can't read images" | Your model is text-only — pick one marked ◉ in Settings, or use Gemini |
 | "No API key set" | Reopen Settings and check the key saved |
-| Nothing happens at all | There's no Dock icon by design. Look for the brain icon in the menu bar |
-| Want the setup steps again | Brain icon → **Setup Guide…** |
+| Nothing happens at all | There's no Dock icon by design. Look for the mitre icon in the menu bar |
+| Want the setup steps again | Mitre icon → **Setup Guide…** |
